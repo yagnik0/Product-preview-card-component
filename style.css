@@ -105,14 +105,16 @@ body {
 }
 
 @media only screen and (max-width:565px) {
+   
     .grid-content{
         width: 35rem;
         display: flex;
         flex-direction: column;
+        margin: 10rem 0;
     }
 
     .image-style{
-        height: 30vh;
+        height: 35vh;
     }
 }
 
